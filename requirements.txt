@@ -1,0 +1,11 @@
+redis
+influxdb
+flask
+pandas
+json
+queue
+threading
+requests
+podman
+
+

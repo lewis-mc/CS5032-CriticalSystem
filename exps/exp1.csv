@@ -1,0 +1,197 @@
+2024-11-15 01:00:23,995, PROCESSOR: Redis connection lost. Attempting to reconnect...
+2024-11-15 01:00:24,000, INGESTER: Redis connection lost. Attempting to reconnect...
+2024-11-15 01:00:26,414, STREAMER: No pending data to send.
+2024-11-15 01:00:26,415, STREAMER: Redis connection lost. Attempting to reconnect...
+2024-11-15 01:00:26,433, STREAMER: Redis down, queuing data for weather_channel:data:0:0
+2024-11-15 01:00:26,537, STREAMER: Redis down, queuing data for weather_channel:data:1:0
+2024-11-15 01:00:26,641, STREAMER: Redis down, queuing data for weather_channel:data:2:0
+2024-11-15 01:00:26,744, STREAMER: Redis down, queuing data for weather_channel:data:3:0
+2024-11-15 01:00:26,848, STREAMER: Redis down, queuing data for weather_channel:data:4:0
+2024-11-15 01:00:26,952, STREAMER: Redis down, queuing data for weather_channel:data:5:0
+2024-11-15 01:00:27,055, STREAMER: Redis down, queuing data for weather_channel:data:6:0
+2024-11-15 01:00:27,159, STREAMER: Redis down, queuing data for weather_channel:data:7:0
+2024-11-15 01:00:27,262, STREAMER: Redis down, queuing data for weather_channel:data:8:0
+2024-11-15 01:00:27,366, STREAMER: Redis down, queuing data for weather_channel:data:9:0
+2024-11-15 01:00:27,469, STREAMER: Redis down, queuing data for weather_channel:data:10:0
+2024-11-15 01:00:27,573, STREAMER: Redis down, queuing data for weather_channel:data:11:0
+2024-11-15 01:00:27,676, STREAMER: Redis down, queuing data for weather_channel:data:12:0
+2024-11-15 01:00:27,780, STREAMER: Redis down, queuing data for weather_channel:data:13:0
+2024-11-15 01:00:27,883, STREAMER: Redis down, queuing data for weather_channel:data:14:0
+2024-11-15 01:00:27,987, STREAMER: Redis down, queuing data for weather_channel:data:15:0
+2024-11-15 01:00:28,091, STREAMER: Redis down, queuing data for weather_channel:data:16:0
+2024-11-15 01:00:28,194, STREAMER: Redis down, queuing data for weather_channel:data:17:0
+2024-11-15 01:00:28,298, STREAMER: Redis down, queuing data for weather_channel:data:18:0
+2024-11-15 01:00:28,401, STREAMER: Redis down, queuing data for weather_channel:data:19:0
+2024-11-15 01:00:28,504, STREAMER: Redis down, queuing data for weather_channel:data:20:0
+2024-11-15 01:00:28,608, STREAMER: Redis down, queuing data for weather_channel:data:21:0
+2024-11-15 01:00:28,711, STREAMER: Redis down, queuing data for weather_channel:data:22:0
+2024-11-15 01:00:28,815, STREAMER: Redis down, queuing data for weather_channel:data:23:0
+2024-11-15 01:00:28,918, STREAMER: Redis down, queuing data for weather_channel:data:24:0
+2024-11-15 01:00:29,019, PROCESSOR: Redis connection lost. Attempting to reconnect...
+2024-11-15 01:00:29,021, STREAMER: Redis down, queuing data for weather_channel:data:25:0
+2024-11-15 01:00:29,025, INGESTER: Redis connection lost. Attempting to reconnect...
+2024-11-15 01:00:29,124, STREAMER: Redis down, queuing data for weather_channel:data:26:0
+2024-11-15 01:00:29,228, STREAMER: Redis down, queuing data for weather_channel:data:27:0
+2024-11-15 01:00:29,331, STREAMER: Redis down, queuing data for weather_channel:data:28:0
+2024-11-15 01:00:29,435, STREAMER: Redis down, queuing data for weather_channel:data:29:0
+2024-11-15 01:00:29,538, STREAMER: Redis down, queuing data for weather_channel:data:30:0
+2024-11-15 01:00:29,642, STREAMER: Redis down, queuing data for weather_channel:data:31:0
+2024-11-15 01:00:29,745, STREAMER: Redis down, queuing data for weather_channel:data:32:0
+2024-11-15 01:00:29,849, STREAMER: Redis down, queuing data for weather_channel:data:33:0
+2024-11-15 01:00:29,952, STREAMER: Redis down, queuing data for weather_channel:data:34:0
+2024-11-15 01:00:30,055, STREAMER: Redis down, queuing data for weather_channel:data:35:0
+2024-11-15 01:00:30,159, STREAMER: Redis down, queuing data for weather_channel:data:36:0
+2024-11-15 01:00:30,263, STREAMER: Redis down, queuing data for weather_channel:data:37:0
+2024-11-15 01:00:30,366, STREAMER: Redis down, queuing data for weather_channel:data:38:0
+2024-11-15 01:00:30,470, STREAMER: Redis down, queuing data for weather_channel:data:39:0
+2024-11-15 01:00:30,573, STREAMER: Redis down, queuing data for weather_channel:data:40:0
+2024-11-15 01:00:30,677, STREAMER: Redis down, queuing data for weather_channel:data:41:0
+2024-11-15 01:00:30,780, STREAMER: Redis down, queuing data for weather_channel:data:42:0
+2024-11-15 01:00:30,884, STREAMER: Redis down, queuing data for weather_channel:data:43:0
+2024-11-15 01:00:30,987, STREAMER: Redis down, queuing data for weather_channel:data:44:0
+2024-11-15 01:00:31,091, STREAMER: Redis down, queuing data for weather_channel:data:45:0
+2024-11-15 01:00:31,194, STREAMER: Redis down, queuing data for weather_channel:data:46:0
+2024-11-15 01:00:31,298, STREAMER: Redis down, queuing data for weather_channel:data:47:0
+2024-11-15 01:00:31,402, STREAMER: Redis down, queuing data for weather_channel:data:48:0
+2024-11-15 01:00:31,425, STREAMER: Redis still down, requeuing data for weather_channel:data:0:0
+2024-11-15 01:00:31,505, STREAMER: Redis down, queuing data for weather_channel:data:49:0
+2024-11-15 01:00:31,609, STREAMER: Redis down, queuing data for weather_channel:data:50:0
+2024-11-15 01:00:31,712, STREAMER: Redis down, queuing data for weather_channel:data:51:0
+2024-11-15 01:00:31,815, STREAMER: Redis down, queuing data for weather_channel:data:52:0
+2024-11-15 01:00:31,918, STREAMER: Redis down, queuing data for weather_channel:data:53:0
+2024-11-15 01:00:32,021, STREAMER: Redis down, queuing data for weather_channel:data:54:0
+2024-11-15 01:00:32,125, STREAMER: Redis down, queuing data for weather_channel:data:55:0
+2024-11-15 01:00:32,228, STREAMER: Redis down, queuing data for weather_channel:data:56:0
+2024-11-15 01:00:32,332, STREAMER: Redis down, queuing data for weather_channel:data:57:0
+2024-11-15 01:00:32,435, STREAMER: Redis down, queuing data for weather_channel:data:58:0
+2024-11-15 01:00:32,539, STREAMER: Redis down, queuing data for weather_channel:data:59:0
+2024-11-15 01:00:32,642, STREAMER: Redis down, queuing data for weather_channel:data:60:0
+2024-11-15 01:00:32,746, STREAMER: Redis down, queuing data for weather_channel:data:61:0
+2024-11-15 01:00:32,849, STREAMER: Redis down, queuing data for weather_channel:data:62:0
+2024-11-15 01:00:32,953, STREAMER: Redis down, queuing data for weather_channel:data:63:0
+2024-11-15 01:00:33,057, STREAMER: Redis down, queuing data for weather_channel:data:64:0
+2024-11-15 01:00:33,160, STREAMER: Redis down, queuing data for weather_channel:data:65:0
+2024-11-15 01:00:33,264, STREAMER: Redis down, queuing data for weather_channel:data:66:0
+2024-11-15 01:00:33,368, STREAMER: Redis down, queuing data for weather_channel:data:67:0
+2024-11-15 01:00:33,471, STREAMER: Redis down, queuing data for weather_channel:data:68:0
+2024-11-15 01:00:33,575, STREAMER: Redis down, queuing data for weather_channel:data:69:0
+2024-11-15 01:00:33,679, STREAMER: Redis down, queuing data for weather_channel:data:70:0
+2024-11-15 01:00:33,782, STREAMER: Redis down, queuing data for weather_channel:data:71:0
+2024-11-15 01:00:33,886, STREAMER: Redis down, queuing data for weather_channel:data:72:0
+2024-11-15 01:00:33,989, STREAMER: Redis down, queuing data for weather_channel:data:73:0
+2024-11-15 01:00:34,044, PROCESSOR: Redis connection lost. Attempting to reconnect...
+2024-11-15 01:00:34,050, INGESTER: Redis connection lost. Attempting to reconnect...
+2024-11-15 01:00:34,093, STREAMER: Redis down, queuing data for weather_channel:data:74:0
+2024-11-15 01:00:34,196, STREAMER: Redis down, queuing data for weather_channel:data:75:0
+2024-11-15 01:00:34,300, STREAMER: Redis down, queuing data for weather_channel:data:76:0
+2024-11-15 01:00:34,404, STREAMER: Redis down, queuing data for weather_channel:data:77:0
+2024-11-15 01:00:34,508, STREAMER: Redis down, queuing data for weather_channel:data:78:0
+2024-11-15 01:00:34,611, STREAMER: Redis down, queuing data for weather_channel:data:79:0
+2024-11-15 01:00:34,714, STREAMER: Redis down, queuing data for weather_channel:data:80:0
+2024-11-15 01:00:34,817, STREAMER: Redis down, queuing data for weather_channel:data:81:0
+2024-11-15 01:00:34,921, STREAMER: Redis down, queuing data for weather_channel:data:82:0
+2024-11-15 01:00:35,024, STREAMER: Redis down, queuing data for weather_channel:data:83:0
+2024-11-15 01:00:35,128, STREAMER: Redis down, queuing data for weather_channel:data:84:0
+2024-11-15 01:00:35,231, STREAMER: Redis down, queuing data for weather_channel:data:85:0
+2024-11-15 01:00:35,335, STREAMER: Redis down, queuing data for weather_channel:data:86:0
+2024-11-15 01:00:35,438, STREAMER: Redis down, queuing data for weather_channel:data:LAST:0
+2024-11-15 01:00:39,051, PROCESSOR: Redis connection lost. Attempting to reconnect...
+2024-11-15 01:00:39,076, INGESTER: Redis connection lost. Attempting to reconnect...
+2024-11-15 01:00:44,076, PROCESSOR: Subscribed to Ingester notifications.
+2024-11-15 01:00:44,101, INGESTER: Subscribed to Streamer data channels.
+2024-11-15 01:00:46,502, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:46,604, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:46,705, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:46,806, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:46,907, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:47,008, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:47,110, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:47,211, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:47,312, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:47,413, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:47,515, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:47,616, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:47,717, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:47,818, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:47,919, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:48,020, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:48,122, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:48,223, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:48,324, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:48,425, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:48,527, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:48,628, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:48,729, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:48,831, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:48,932, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:49,033, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:49,134, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:49,236, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:49,337, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:49,438, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:49,539, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:49,640, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:49,741, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:49,842, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:49,944, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:50,045, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:50,146, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:50,247, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:50,349, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:50,450, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:50,551, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:50,652, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:50,753, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:50,854, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:50,955, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:51,057, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:51,158, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:51,259, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:51,360, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:51,461, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:51,562, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:51,663, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:51,764, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:51,865, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:51,966, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:52,067, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:52,168, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:52,269, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:52,370, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:52,471, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:52,572, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:52,674, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:52,775, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:52,876, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:52,977, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:53,078, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:53,180, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:53,281, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:53,382, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:53,483, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:53,584, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:53,685, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:53,787, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:53,888, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:53,989, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:54,090, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:54,191, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:54,293, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:54,394, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:54,495, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:54,596, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:54,696, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:54,798, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:54,899, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:55,000, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:55,101, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:55,202, STREAMER: Sent pending data to Redis.
+2024-11-15 01:00:55,303, STREAMER: Sent pending data to Redis.
+2024-11-15 01:01:00,428, STREAMER: No pending data to send.
+2024-11-15 01:01:01,452, INGESTER: Notified Processor to start analytics for hour 0
+2024-11-15 01:01:01,452, PROCESSOR: Received notification to process data for hour 0
+2024-11-15 01:01:01,453, INGESTER: Completed receiving data for hour 0
+2024-11-15 01:01:01,504, INGESTER: Notified Processor to start analytics for hour 0
+2024-11-15 01:01:01,504, INGESTER: Completed receiving data for hour 0
+2024-11-15 01:01:02,911, PROCESSOR: Received notification to process data for hour 0
+2024-11-15 01:01:05,447, STREAMER: No pending data to send.

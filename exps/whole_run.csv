@@ -1,0 +1,187 @@
+2024-11-15 18:35:24,632, INGESTER: Subscribed to Streamer data channels.
+2024-11-15 18:35:24,640, PROCESSOR: Subscribed to Ingester notifications.
+2024-11-15 18:35:26,344, STREAMER: Starting to publish data for hour 0
+2024-11-15 18:35:26,344, STREAMER: No pending data to send.
+2024-11-15 18:35:26,537, STREAMER: Publishing batch index LAST for hour 0
+2024-11-15 18:35:26,537, INGESTER: Sending all cached data for hour 0
+2024-11-15 18:35:29,699, INGESTER: Notified Processor to start analytics for hour 0
+2024-11-15 18:35:29,699, PROCESSOR: Received notification to process data for hour 0
+2024-11-15 18:35:30,002, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 00 into weather_averages
+2024-11-15 18:35:46,637, STREAMER: Starting to publish data for hour 1
+2024-11-15 18:35:46,835, STREAMER: Publishing batch index LAST for hour 1
+2024-11-15 18:35:46,835, INGESTER: Sending all cached data for hour 1
+2024-11-15 18:35:49,885, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 00 into zip_code_extremes
+2024-11-15 18:35:49,953, INGESTER: Notified Processor to start analytics for hour 1
+2024-11-15 18:35:49,957, PROCESSOR: Received notification to process data for hour 1
+2024-11-15 18:35:50,291, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 01 into weather_averages
+2024-11-15 18:35:56,446, STREAMER: No pending data to send.
+2024-11-15 18:36:06,934, STREAMER: Starting to publish data for hour 2
+2024-11-15 18:36:07,130, STREAMER: Publishing batch index LAST for hour 2
+2024-11-15 18:36:07,131, INGESTER: Sending all cached data for hour 2
+2024-11-15 18:36:10,472, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 01 into zip_code_extremes
+2024-11-15 18:36:10,495, INGESTER: Notified Processor to start analytics for hour 2
+2024-11-15 18:36:10,543, PROCESSOR: Received notification to process data for hour 2
+2024-11-15 18:36:10,882, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 02 into weather_averages
+2024-11-15 18:36:26,546, STREAMER: No pending data to send.
+2024-11-15 18:36:27,216, STREAMER: Starting to publish data for hour 3
+2024-11-15 18:36:27,409, STREAMER: Publishing batch index LAST for hour 3
+2024-11-15 18:36:27,409, INGESTER: Sending all cached data for hour 3
+2024-11-15 18:36:31,402, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 02 into zip_code_extremes
+2024-11-15 18:36:32,169, PROCESSOR: Received notification to process data for hour 3
+2024-11-15 18:36:32,171, INGESTER: Notified Processor to start analytics for hour 3
+2024-11-15 18:36:32,550, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 03 into weather_averages
+2024-11-15 18:36:47,504, STREAMER: Starting to publish data for hour 4
+2024-11-15 18:36:47,700, STREAMER: Publishing batch index LAST for hour 4
+2024-11-15 18:36:47,700, INGESTER: Sending all cached data for hour 4
+2024-11-15 18:36:52,537, INGESTER: Notified Processor to start analytics for hour 4
+2024-11-15 18:36:52,921, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 03 into zip_code_extremes
+2024-11-15 18:36:52,992, PROCESSOR: Received notification to process data for hour 4
+2024-11-15 18:36:53,332, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 04 into weather_averages
+2024-11-15 18:36:56,646, STREAMER: No pending data to send.
+2024-11-15 18:37:07,800, STREAMER: Starting to publish data for hour 5
+2024-11-15 18:37:07,993, STREAMER: Publishing batch index LAST for hour 5
+2024-11-15 18:37:07,993, INGESTER: Sending all cached data for hour 5
+2024-11-15 18:37:13,023, INGESTER: Notified Processor to start analytics for hour 5
+2024-11-15 18:37:13,794, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 04 into zip_code_extremes
+2024-11-15 18:37:13,867, PROCESSOR: Received notification to process data for hour 5
+2024-11-15 18:37:14,172, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 05 into weather_averages
+2024-11-15 18:37:26,746, STREAMER: No pending data to send.
+2024-11-15 18:37:28,077, STREAMER: Starting to publish data for hour 6
+2024-11-15 18:37:28,291, STREAMER: Publishing batch index LAST for hour 6
+2024-11-15 18:37:28,291, INGESTER: Sending all cached data for hour 6
+2024-11-15 18:37:33,355, INGESTER: Notified Processor to start analytics for hour 6
+2024-11-15 18:37:34,634, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 05 into zip_code_extremes
+2024-11-15 18:37:34,700, PROCESSOR: Received notification to process data for hour 6
+2024-11-15 18:37:34,989, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 06 into weather_averages
+2024-11-15 18:37:48,391, STREAMER: Starting to publish data for hour 7
+2024-11-15 18:37:48,585, STREAMER: Publishing batch index LAST for hour 7
+2024-11-15 18:37:48,585, INGESTER: Sending all cached data for hour 7
+2024-11-15 18:37:53,770, INGESTER: Notified Processor to start analytics for hour 7
+2024-11-15 18:37:55,351, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 06 into zip_code_extremes
+2024-11-15 18:37:55,417, PROCESSOR: Received notification to process data for hour 7
+2024-11-15 18:37:55,708, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 07 into weather_averages
+2024-11-15 18:37:56,846, STREAMER: No pending data to send.
+2024-11-15 18:38:08,685, STREAMER: Starting to publish data for hour 8
+2024-11-15 18:38:08,882, STREAMER: Publishing batch index LAST for hour 8
+2024-11-15 18:38:08,882, INGESTER: Sending all cached data for hour 8
+2024-11-15 18:38:14,186, INGESTER: Notified Processor to start analytics for hour 8
+2024-11-15 18:38:15,994, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 07 into zip_code_extremes
+2024-11-15 18:38:16,061, PROCESSOR: Received notification to process data for hour 8
+2024-11-15 18:38:16,381, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 08 into weather_averages
+2024-11-15 18:38:26,946, STREAMER: No pending data to send.
+2024-11-15 18:38:28,920, STREAMER: Starting to publish data for hour 9
+2024-11-15 18:38:29,115, STREAMER: Publishing batch index LAST for hour 9
+2024-11-15 18:38:29,115, INGESTER: Sending all cached data for hour 9
+2024-11-15 18:38:34,323, INGESTER: Notified Processor to start analytics for hour 9
+2024-11-15 18:38:37,013, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 08 into zip_code_extremes
+2024-11-15 18:38:37,083, PROCESSOR: Received notification to process data for hour 9
+2024-11-15 18:38:37,477, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 09 into weather_averages
+2024-11-15 18:38:49,214, STREAMER: Starting to publish data for hour 10
+2024-11-15 18:38:49,403, STREAMER: Publishing batch index LAST for hour 10
+2024-11-15 18:38:49,403, INGESTER: Sending all cached data for hour 10
+2024-11-15 18:38:54,577, INGESTER: Notified Processor to start analytics for hour 10
+2024-11-15 18:38:57,046, STREAMER: No pending data to send.
+2024-11-15 18:38:57,757, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 09 into zip_code_extremes
+2024-11-15 18:38:57,826, PROCESSOR: Received notification to process data for hour 10
+2024-11-15 18:38:58,070, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 10 into weather_averages
+2024-11-15 18:39:09,503, STREAMER: Starting to publish data for hour 11
+2024-11-15 18:39:09,694, STREAMER: Publishing batch index LAST for hour 11
+2024-11-15 18:39:09,695, INGESTER: Sending all cached data for hour 11
+2024-11-15 18:39:15,068, INGESTER: Notified Processor to start analytics for hour 11
+2024-11-15 18:39:18,422, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 10 into zip_code_extremes
+2024-11-15 18:39:18,493, PROCESSOR: Received notification to process data for hour 11
+2024-11-15 18:39:18,797, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 11 into weather_averages
+2024-11-15 18:39:27,146, STREAMER: No pending data to send.
+2024-11-15 18:39:29,794, STREAMER: Starting to publish data for hour 12
+2024-11-15 18:39:29,970, STREAMER: Publishing batch index LAST for hour 12
+2024-11-15 18:39:29,970, INGESTER: Sending all cached data for hour 12
+2024-11-15 18:39:35,244, INGESTER: Notified Processor to start analytics for hour 12
+2024-11-15 18:39:39,171, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 11 into zip_code_extremes
+2024-11-15 18:39:39,254, PROCESSOR: Received notification to process data for hour 12
+2024-11-15 18:39:39,731, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 12 into weather_averages
+2024-11-15 18:39:50,060, STREAMER: Starting to publish data for hour 13
+2024-11-15 18:39:50,241, STREAMER: Publishing batch index LAST for hour 13
+2024-11-15 18:39:50,241, INGESTER: Sending all cached data for hour 13
+2024-11-15 18:39:55,456, INGESTER: Notified Processor to start analytics for hour 13
+2024-11-15 18:39:57,246, STREAMER: No pending data to send.
+2024-11-15 18:40:00,126, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 12 into zip_code_extremes
+2024-11-15 18:40:00,203, PROCESSOR: Received notification to process data for hour 13
+2024-11-15 18:40:00,552, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 13 into weather_averages
+2024-11-15 18:40:10,341, STREAMER: Starting to publish data for hour 14
+2024-11-15 18:40:10,525, STREAMER: Publishing batch index LAST for hour 14
+2024-11-15 18:40:10,525, INGESTER: Sending all cached data for hour 14
+2024-11-15 18:40:15,768, INGESTER: Notified Processor to start analytics for hour 14
+2024-11-15 18:40:21,365, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 13 into zip_code_extremes
+2024-11-15 18:40:21,465, PROCESSOR: Received notification to process data for hour 14
+2024-11-15 18:40:21,714, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 14 into weather_averages
+2024-11-15 18:40:27,346, STREAMER: No pending data to send.
+2024-11-15 18:40:30,588, STREAMER: Starting to publish data for hour 15
+2024-11-15 18:40:30,788, STREAMER: Publishing batch index LAST for hour 15
+2024-11-15 18:40:30,788, INGESTER: Sending all cached data for hour 15
+2024-11-15 18:40:36,085, INGESTER: Notified Processor to start analytics for hour 15
+2024-11-15 18:40:42,326, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 14 into zip_code_extremes
+2024-11-15 18:40:42,394, PROCESSOR: Received notification to process data for hour 15
+2024-11-15 18:40:42,713, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 15 into weather_averages
+2024-11-15 18:40:50,852, STREAMER: Starting to publish data for hour 16
+2024-11-15 18:40:51,040, STREAMER: Publishing batch index LAST for hour 16
+2024-11-15 18:40:51,040, INGESTER: Sending all cached data for hour 16
+2024-11-15 18:40:56,461, INGESTER: Notified Processor to start analytics for hour 16
+2024-11-15 18:40:57,446, STREAMER: No pending data to send.
+2024-11-15 18:41:03,287, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 15 into zip_code_extremes
+2024-11-15 18:41:03,355, PROCESSOR: Received notification to process data for hour 16
+2024-11-15 18:41:03,603, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 16 into weather_averages
+2024-11-15 18:41:11,140, STREAMER: Starting to publish data for hour 17
+2024-11-15 18:41:11,325, STREAMER: Publishing batch index LAST for hour 17
+2024-11-15 18:41:11,325, INGESTER: Sending all cached data for hour 17
+2024-11-15 18:41:16,649, INGESTER: Notified Processor to start analytics for hour 17
+2024-11-15 18:41:24,449, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 16 into zip_code_extremes
+2024-11-15 18:41:24,521, PROCESSOR: Received notification to process data for hour 17
+2024-11-15 18:41:24,770, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 17 into weather_averages
+2024-11-15 18:41:27,546, STREAMER: No pending data to send.
+2024-11-15 18:41:31,335, STREAMER: Starting to publish data for hour 18
+2024-11-15 18:41:31,515, STREAMER: Publishing batch index LAST for hour 18
+2024-11-15 18:41:31,516, INGESTER: Sending all cached data for hour 18
+2024-11-15 18:41:36,743, INGESTER: Notified Processor to start analytics for hour 18
+2024-11-15 18:41:45,281, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 17 into zip_code_extremes
+2024-11-15 18:41:45,352, PROCESSOR: Received notification to process data for hour 18
+2024-11-15 18:41:45,625, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 18 into weather_averages
+2024-11-15 18:41:51,615, STREAMER: Starting to publish data for hour 19
+2024-11-15 18:41:51,809, STREAMER: Publishing batch index LAST for hour 19
+2024-11-15 18:41:51,809, INGESTER: Sending all cached data for hour 19
+2024-11-15 18:41:57,049, INGESTER: Notified Processor to start analytics for hour 19
+2024-11-15 18:41:57,646, STREAMER: No pending data to send.
+2024-11-15 18:42:06,281, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 18 into zip_code_extremes
+2024-11-15 18:42:06,346, PROCESSOR: Received notification to process data for hour 19
+2024-11-15 18:42:06,592, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 19 into weather_averages
+2024-11-15 18:42:11,909, STREAMER: Starting to publish data for hour 20
+2024-11-15 18:42:12,129, STREAMER: Publishing batch index LAST for hour 20
+2024-11-15 18:42:12,130, INGESTER: Sending all cached data for hour 20
+2024-11-15 18:42:17,434, INGESTER: Notified Processor to start analytics for hour 20
+2024-11-15 18:42:26,596, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 19 into zip_code_extremes
+2024-11-15 18:42:26,670, PROCESSOR: Received notification to process data for hour 20
+2024-11-15 18:42:26,917, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 20 into weather_averages
+2024-11-15 18:42:27,746, STREAMER: No pending data to send.
+2024-11-15 18:42:32,229, STREAMER: Starting to publish data for hour 21
+2024-11-15 18:42:32,422, STREAMER: Publishing batch index LAST for hour 21
+2024-11-15 18:42:32,422, INGESTER: Sending all cached data for hour 21
+2024-11-15 18:42:37,697, INGESTER: Notified Processor to start analytics for hour 21
+2024-11-15 18:42:46,839, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 20 into zip_code_extremes
+2024-11-15 18:42:46,903, PROCESSOR: Received notification to process data for hour 21
+2024-11-15 18:42:47,267, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 21 into weather_averages
+2024-11-15 18:42:52,522, STREAMER: Starting to publish data for hour 22
+2024-11-15 18:42:52,767, STREAMER: Publishing batch index LAST for hour 22
+2024-11-15 18:42:52,767, INGESTER: Sending all cached data for hour 22
+2024-11-15 18:42:57,846, STREAMER: No pending data to send.
+2024-11-15 18:42:58,032, INGESTER: Notified Processor to start analytics for hour 22
+2024-11-15 18:43:07,122, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 21 into zip_code_extremes
+2024-11-15 18:43:07,198, PROCESSOR: Received notification to process data for hour 22
+2024-11-15 18:43:07,586, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 22 into weather_averages
+2024-11-15 18:43:12,837, STREAMER: Starting to publish data for hour 23
+2024-11-15 18:43:13,065, STREAMER: Publishing batch index LAST for hour 23
+2024-11-15 18:43:13,065, INGESTER: Sending all cached data for hour 23
+2024-11-15 18:43:18,416, INGESTER: Notified Processor to start analytics for hour 23
+2024-11-15 18:43:27,623, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 22 into zip_code_extremes
+2024-11-15 18:43:27,687, PROCESSOR: Received notification to process data for hour 23
+2024-11-15 18:43:27,946, STREAMER: No pending data to send.
+2024-11-15 18:43:28,015, PROCESSOR: Successfully wrote analytics to InfluxDB for hour 23 into weather_averages
+

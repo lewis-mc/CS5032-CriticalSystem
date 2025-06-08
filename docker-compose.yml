@@ -1,0 +1,28 @@
+version: '3'
+
+services:
+  flask-app:
+    build: .
+    ports:
+      - "9000:9000"  # Expose Flask app on port 9000
+    depends_on:
+      - redis
+      - influxdb
+    environment:
+      - FLASK_ENV=development
+    volumes:
+      - .:/app
+
+  redis:
+    image: "redis:6.2"
+    ports:
+      - "6379:6379"  # Redis accessible on port 6379
+
+  influxdb:
+    image: influxdb:1.8
+    ports:
+      - "8086:8086"  # InfluxDB accessible on port 8086
+    environment:
+      - INFLUXDB_DB=myDB  # Initial database setup
+      - INFLUXDB_ADMIN_USER=root
+      - INFLUXDB_ADMIN_PASSWORD=root
